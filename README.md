@@ -17,7 +17,7 @@ HAR to Image Downloader is a Python-based tool that extracts images from `.har` 
 
 ### Prerequisites
 
-- Python 3.7 or higher
+- Python 3.12 or higher
 - `pip` package manager
 
 ### Clone the Repository
