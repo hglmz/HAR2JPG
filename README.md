@@ -23,8 +23,8 @@ HAR to Image Downloader is a Python-based tool that extracts images from `.har` 
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/har-to-image-downloader.git
-cd har-to-image-downloader
+git clone https://github.com/hglmz/HAR2JPG.git
+cd HAR2JPG
 ```
 
 ### Install Dependencies
